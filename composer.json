@@ -3,7 +3,7 @@
     "description": "compatibility fork of Thujohn/pdf (dompdf wrapper) for Laravel Lumen",
 	"keywords": ["pdf", "dompdf", "laravel", "lumen"],
     "license": "MIT",
-    "version": "*",
+    "version": "1.0.7.4",
     "authors": [
         {
             "name": "k98kurz",
@@ -18,5 +18,6 @@
         "psr-0": {
             "k98kurz\\Pdf": "src/"
         }
-    }  
+    },
+    "minimum-stability": "dev"
 }
